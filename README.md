@@ -1,2 +1,3 @@
 # WINmake
-a basic intro to the various makeup products
+ A basic intro to the various makeup products
+ visit at : https://tanyagupta1901.github.io/WINmake/
